@@ -1,0 +1,4 @@
+
+# Ottoman Turkish (1500-1928) Dictionary
+
+Curated public domain dictionary and pronunciation guide for terms in the Ottoman Turkish (1500-1928) language. See the [contributing guide](https://github.com/drumworkteam/term/blob/make/.github/contributing.md) for details on how to contribute. We would love your support, even if it is just fixing a word or adding a single definition. Thank you for all your help!
