@@ -7,9 +7,9 @@
 <br/>
 <br/>
 
-<h3 align='center'>tree</h3>
+<h3 align='center'>text</h3>
 <p align='center'>
-  Data in Link Text
+  Link Text Documents
 </p>
 
 <br/>
